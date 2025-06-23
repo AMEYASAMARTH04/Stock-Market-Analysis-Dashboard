@@ -32,5 +32,3 @@ An end-to-end stock market analysis and prediction dashboard combining **Power B
 
 ---
 
-## 🗂 Folder Structure
-
